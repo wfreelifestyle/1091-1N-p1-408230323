@@ -1,0 +1,68 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#container {
+  box-sizing: border-box;
+  border: 1px solid #262626;
+  width: 735px;
+  margin: 10px;
+  padding: 10px;
+  height: 100%;
+}
+
+table {
+  box-sizing: border-box;
+  border: 1px solid #262626;
+  width: 100%;
+}
+
+.name {
+  text-align: center;
+  background-color: rgb(84, 59, 173);
+  color: aliceblue;
+  padding: 25px;
+  height: 20px;
+
+}
+
+.number {
+  background-color: orange;
+  text-align: center;
+}
+.time {
+  background-color: peachpuff;
+  text-align: center;
+}
+.tableName {
+  text-align: center;
+  color: aliceblue;
+  background-color: rgb(32, 25, 136);
+}
+
+.weekday {
+  text-align: center;
+  background-color: rgb(80, 192, 183);
+}
+
+.content {
+  text-align: center;
+  background-color: rgb(102, 201, 151);
+  width: 200px;
+  height: 50px;
+}
+
+.information {
+  text-align: center;
+  background-color: rgb(192, 162, 209);
+}
+.email {
+  text-align: left;
+  background-color: gray;
+}
+.web {
+  text-align: left;
+  background-color: gray;
+}
