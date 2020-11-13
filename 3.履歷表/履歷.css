@@ -1,13 +1,42 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+/** @format */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#container {
+  box-sizing: border-box;
+  border: 1px solid black;
+  width: 500px;
+  margin: 10px;
+  padding: 5px;
+}
+
+table,
+tr,
+td {
+  border: 1px solid #262626;
+  border-collapse: collapse;
+}
+
+h2 {
+  text-align: center;
+}
+
+table tr td {
+  padding: 5px;
+}
+
+caption {
+  text-align: left;
 }
 
 .basic {
-    background-color: aqua;
+  background-color: aqua;
 }
 
-.self-inrto {
-    background-color: rgb(82, 192, 109);
+.self-intro {
+  padding-top: 55px;
 }
