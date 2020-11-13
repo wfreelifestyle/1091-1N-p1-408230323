@@ -1,3 +1,8 @@
 {
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5501,
+    "prettier.insertPragma": true,
+    "prettier.endOfLine": "auto",
+    "prettier.jsxBracketSameLine": true,
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on"
 }
