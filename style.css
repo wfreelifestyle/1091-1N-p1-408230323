@@ -1,12 +1,15 @@
+/** @format */
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
- 
+  background-color: blanchedalmond;
 }
 
+#container {
+  margin: 10px;
+}
 ul li {
   list-style-type: none;
 }
-
-

@@ -4,5 +4,8 @@
     "prettier.endOfLine": "auto",
     "prettier.jsxBracketSameLine": true,
     "editor.formatOnSave": true,
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "cSpell.ignoreWords": [
+        "format"
+    ]
 }

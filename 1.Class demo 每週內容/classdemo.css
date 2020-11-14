@@ -1,7 +1,14 @@
-*{
+/** @format */
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(140, 206, 137);
 }
-
+#container {
+  margin: 15px;
+}
 ul li {
-    list-style-type: none;
+  list-style-type: none;
 }
